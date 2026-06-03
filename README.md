@@ -1,4 +1,4 @@
-# Ursula
+# Uiiirsula
 
 [![Crates.io](https://img.shields.io/crates/v/ursula.svg)](https://crates.io/crates/ursula)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
